@@ -131,7 +131,7 @@ Routes:
         DownstreamPathTemplate: /api/Report
         DownstreamScheme: http
         UpstreamPathTemplate: /api/Report
-        ServiceName: Microservices.Demo.ReportV1.API
+        ServiceName: Microservices.Demo.Report.API
         UpstreamHttpMethod:
             - Get
         FileCacheOptions: 
